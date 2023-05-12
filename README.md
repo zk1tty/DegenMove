@@ -1,3 +1,7 @@
+# DegenMove
+The decentralized copy trading contract.
+
+----
 # Hardhat Boilerplate
 
 This repository contains a sample project that you can use as the starting point
